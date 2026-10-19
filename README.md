@@ -24,8 +24,6 @@
   <a href="https://www.linkedin.com/in/ryanjyothis/"><img src="https://img.shields.io/badge/LinkedIn-Ryan%20Jyothis-30363D?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn: Ryan Jyothis" /></a>
   <a href="https://www.instagram.com/ryanjyothis/"><img src="https://img.shields.io/badge/Instagram-ryanjyothis-30363D?style=flat&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram: ryanjyothis" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rjyot&label=profile%20views&color=30363D&style=flat" alt="profile views" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/rjyot?label=followers&style=flat&color=30363D&labelColor=0D1117" alt="followers" />
 </p>
 
