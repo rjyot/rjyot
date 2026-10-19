@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
 <title id="title">Ryan Jyothis — software engineering</title><desc id="desc">A dark terminal. Software engineering student on placement at Citi. Building Brewstige, a private project.</desc>
-<rect width="1200" height="530" rx="12" fill="#141414"/><path d="M0 47H1200" stroke="#303030"/>
+<path d="M0 47H1200" stroke="#303030"/>
 <g font-family="Consolas, 'Courier New', monospace">
 <circle cx="28" cy="24" r="5" fill="#777"/><circle cx="47" cy="24" r="5" fill="#555"/><circle cx="66" cy="24" r="5" fill="#333"/>
 <text x="600" y="29" fill="#888" font-size="13" text-anchor="middle">rjyot / personal session</text>
@@ -9,5 +9,5 @@
 <text x="54" y="306" fill="#aaa69f" font-size="20">Ryan Jyothis</text><path d="M54 342H1146" stroke="#343434"/>
 <text x="54" y="381" fill="#a6b9a0" font-size="15">01</text><text x="96" y="381" fill="#e1ded6" font-size="17">studying software engineering</text>
 <text x="54" y="417" fill="#a6b9a0" font-size="15">02</text><text x="96" y="417" fill="#e1ded6" font-size="17">currently on placement @ Citi</text>
-<rect x="54" y="466" width="1092" height="34" rx="3" fill="#20221f"/><text x="70" y="488" fill="#a6b9a0" font-size="13">● building Brewstige</text><text x="1129" y="488" fill="#969b92" font-size="13" text-anchor="end">private project / in development</text>
+<rect x="54" y="466" width="1092" height="34" rx="3" fill="none" stroke="#343434"/><text x="70" y="488" fill="#a6b9a0" font-size="13">● building Brewstige</text><text x="1129" y="488" fill="#969b92" font-size="13" text-anchor="end">private project / in development</text>
 </g></svg>
