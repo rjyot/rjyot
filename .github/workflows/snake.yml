@@ -1,4 +1,4 @@
-name: Brew the contribution snake
+name: Generate contribution snake
 
 on:
   schedule:
@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#6F4E37&color_dots=#F5E6D3,#E8C39E,#C68B59,#6F4E37,#3E2723
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E8C39E&color_dots=#1C1210,#3E2723,#6F4E37,#A0704A,#C68B59
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#57606A&color_dots=#EBEDF0,#D0D7DE,#AFB8C1,#8C959F,#57606A
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C9D1D9&color_dots=#161B22,#30363D,#484F58,#6E7681,#8B949E
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
