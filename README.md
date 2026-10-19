@@ -4,11 +4,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-terminal-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-terminal-light.svg" />
-  <img width="100%" src="./assets/profile-terminal-dark.svg" alt="Terminal: rjyot. Ryan Jyothis. MEng Software Engineering at Queen's University Belfast, 2024 to 2029. Technology Placement Analyst at Citi. 2nd overall at Hack Belfast." />
+  <img width="100%" src="./assets/profile-terminal-dark.svg" alt="Terminal: rjyot. Ryan Jyothis. MEng Software Engineering at Queen's University Belfast, 2024 to 2029. Technology Placement Analyst at Citi. runner-up for Best Real World Impact at Hack Belfast." />
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=48&lines=MEng+Software+Engineering+%40+Queen's+University+Belfast;Technology+Placement+Analyst+%40+Citi;2nd+overall+at+Hack+Belfast;TypeScript+%C2%B7+React+%C2%B7+React+Native+%C2%B7+Supabase;open+to+summer+2027+SWE+internships+(UK+%26+Ireland)" alt="typing: MEng Software Engineering at Queen's University Belfast; Technology Placement Analyst at Citi; 2nd overall at Hack Belfast; TypeScript, React, React Native, Supabase; open to summer 2027 SWE internships in the UK and Ireland" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=48&lines=MEng+Software+Engineering+%40+Queen's+University+Belfast;Technology+Placement+Analyst+%40+Citi;Runner-up+%C2%B7+Best+Real+World+Impact+%40+Hack+Belfast;TypeScript+%C2%B7+React+%C2%B7+React+Native+%C2%B7+Supabase;open+to+summer+2027+SWE+internships+(UK+%26+Ireland)" alt="typing: MEng Software Engineering at Queen's University Belfast; Technology Placement Analyst at Citi; runner-up for Best Real World Impact at Hack Belfast; TypeScript, React, React Native, Supabase; open to summer 2027 SWE internships in the UK and Ireland" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/MENG%20SOFTWARE%20ENGINEERING-QUB%20%C2%B7%202024%E2%80%932029-30363D?style=for-the-badge&labelColor=0D1117" alt="MEng Software Engineering at Queen's University Belfast, 2024 to 2029" />
   <br />
   <img src="https://img.shields.io/badge/BASED%20IN-BELFAST%2C%20NI-30363D?style=for-the-badge&labelColor=0D1117" alt="Based in Belfast, Northern Ireland" />
-  <img src="https://img.shields.io/badge/HACK%20BELFAST-2ND%20OVERALL-30363D?style=for-the-badge&labelColor=0D1117" alt="Hack Belfast: 2nd overall" />
+  <img src="https://img.shields.io/badge/HACK%20BELFAST-RUNNER--UP%20%C2%B7%20BEST%20REAL%20WORLD%20IMPACT-30363D?style=for-the-badge&labelColor=0D1117" alt="Hack Belfast: runner-up, Best Real World Impact" />
   <img src="https://img.shields.io/badge/OPEN%20TO-SUMMER%202027%20SWE%20INTERNSHIPS%20%C2%B7%20UK%20%26%20IE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Open to summer 2027 software engineering internships in the UK and Ireland" />
 </p>
 
@@ -108,7 +108,7 @@ Looking for **summer 2027 software engineering internships** in the **UK and Ire
 ```diff
 + MEng Software Engineering @ Queen's University Belfast (2024 – 2029)
 + Technology Placement Analyst @ Citi
-+ 2nd overall at Hack Belfast
++ runner-up for Best Real World Impact at Hack Belfast
 + built Zeto at the Notion × Dublin AI Week Student Hackathon (Oct 2026)
 + looking for summer 2027 SWE internships in the UK & Ireland
 ```
@@ -121,7 +121,7 @@ Looking for **summer 2027 software engineering internships** in the **UK and Ire
 
 | Event | Result | Project |
 |:--|:--|:--|
-| **Hack Belfast** · 24-hour hackathon | 🏆 2nd overall · 5-person team | Brewstige |
+| **Hack Belfast** · 24-hour hackathon | 🏆 Runner-up · Best Real World Impact · 5-person team | Brewstige |
 | **Notion × Dublin AI Week Student Hackathon** · Oct 2026 | Participant | Zeto · private repo · TypeScript |
 
 </div>
