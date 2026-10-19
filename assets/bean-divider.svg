@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="coffee bean divider">
+<style>.b{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}</style>
+<path d="M20 20H520M680 20H1180" stroke="#C68B59" stroke-width="2" stroke-dasharray="1 9" stroke-linecap="round"/>
+<g class="b" style="animation-delay:0.0s" transform="translate(545 20) rotate(-30)"><ellipse rx="13" ry="9" fill="#C68B59"/><path d="M-11 2C-4 -4 4 4 11 -2" stroke="#F5E6D3" stroke-width="2" fill="none"/></g><g class="b" style="animation-delay:0.3s" transform="translate(600 20) rotate(-30)"><ellipse rx="13" ry="9" fill="#E8C39E"/><path d="M-11 2C-4 -4 4 4 11 -2" stroke="#F5E6D3" stroke-width="2" fill="none"/></g><g class="b" style="animation-delay:0.6s" transform="translate(655 20) rotate(-30)"><ellipse rx="13" ry="9" fill="#A0704A"/><path d="M-11 2C-4 -4 4 4 11 -2" stroke="#F5E6D3" stroke-width="2" fill="none"/></g>
+</svg>
