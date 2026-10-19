@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanjyothis/"><img src="https://img.shields.io/badge/LinkedIn-Ryan%20Jyothis-30363D?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn: Ryan Jyothis" /></a>
+  <a href="https://www.instagram.com/ryanjyothis/"><img src="https://img.shields.io/badge/Instagram-ryanjyothis-30363D?style=flat&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram: ryanjyothis" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=rjyot&label=profile%20views&color=30363D&style=flat" alt="profile views" />
   &nbsp;
@@ -32,11 +33,11 @@
 
 <h2 align="center">01 &nbsp;·&nbsp; A B O U T</h2>
 
-Hey, I'm **Ryan**, an integrated MEng Software Engineering student at **Queen's University Belfast** (2024 – 2029), currently working as a **Technology Placement Analyst at Citi**.
+Integrated MEng Software Engineering student at **Queen's University Belfast** (2024 – 2029), currently working as a **Technology Placement Analyst at Citi**.
 
 The part of software I enjoy most is the space between an idea and a usable product: shaping the interface, connecting the data, and getting the small details right so the whole thing actually works.
 
-Right now I'm looking for **summer 2027 software engineering internships** in the **UK and Ireland**.
+Looking for **summer 2027 software engineering internships** in the **UK and Ireland**.
 
 ---
 
@@ -172,11 +173,12 @@ Right now I'm looking for **summer 2027 software engineering internships** in th
 
 <p align="center">
   Hiring for <b>summer 2027</b> software engineering internships in the UK or Ireland?<br />
-  Get in touch on LinkedIn.
+  Get in touch on LinkedIn or Instagram.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanjyothis/"><img src="https://img.shields.io/badge/LinkedIn-Ryan%20Jyothis-30363D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn: Ryan Jyothis" /></a>
+  <a href="https://www.instagram.com/ryanjyothis/"><img src="https://img.shields.io/badge/Instagram-ryanjyothis-30363D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram: ryanjyothis" /></a>
 </p>
 
 <p align="center"><a href="#top"><sub>↑ back to top</sub></a></p>
