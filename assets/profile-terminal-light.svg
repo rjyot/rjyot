@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
 <title id="title">rjyot: Ryan Jyothis</title>
-<desc id="desc">Terminal-style header. Ryan Jyothis, MEng Software Engineering at Queen's University Belfast (2024 to 2029), Technology Placement Analyst at Citi, 2nd overall at Hack Belfast, based in Belfast.</desc>
+<desc id="desc">Terminal-style header. Ryan Jyothis, MEng Software Engineering at Queen's University Belfast (2024 to 2029), Technology Placement Analyst at Citi, runner-up for Best Real World Impact at Hack Belfast, based in Belfast.</desc>
 <style>
 .m{font-family:'JetBrains Mono',Consolas,'Courier New',monospace}
 .cur{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
@@ -18,7 +18,7 @@
 <g font-size="17">
 <text x="50" y="388"><tspan fill="#0969DA">[01]</tspan><tspan fill="#1F2328" dx="14">MEng Software Engineering @ Queen's University Belfast · 2024–2029</tspan></text>
 <text x="50" y="422"><tspan fill="#0969DA">[02]</tspan><tspan fill="#1F2328" dx="14">Technology Placement Analyst @ Citi</tspan></text>
-<text x="50" y="456"><tspan fill="#0969DA">[03]</tspan><tspan fill="#1F2328" dx="14">2nd overall @ Hack Belfast</tspan></text>
+<text x="50" y="456"><tspan fill="#0969DA">[03]</tspan><tspan fill="#1F2328" dx="14">Runner-up, Best Real World Impact @ Hack Belfast</tspan></text>
 </g>
 <g font-size="15" text-anchor="end">
 <text x="1150" y="140" fill="#57606A">status</text>
